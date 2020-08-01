@@ -3,6 +3,10 @@
 #include <cmath>
 #include <ctime>
 using namespace std;
+/* AUTHOR: TRACY MARSTON 
+   DATE: 7/20/2020 */
+
+
 
 // FIND CURRENT TIME
 void currentTime(int& clock12Hours, int& clock24Hours, int& clockMinutes, int& clockSeconds){
